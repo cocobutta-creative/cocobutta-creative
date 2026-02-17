@@ -14,7 +14,5 @@ HTML • CSS • Responsive Design • GitHub • VS Code
 ### 📂 Current Focus
 Building modular layouts, semantic structure, and clean UI foundations.
 
-### 🌐 Portfolio
-https://cocobutta-creative.github.io
 
 </p>
