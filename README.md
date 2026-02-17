@@ -8,6 +8,4 @@
 Web Design & Development student building front-end websites and digital experiences.
 </p>
 
-<p align="center">
-🌐 https://cocobutta-creative.github.io
 </p>
