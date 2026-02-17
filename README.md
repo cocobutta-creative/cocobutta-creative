@@ -7,5 +7,14 @@
 <p align="center">
 Web Design & Development student building front-end websites and digital experiences.
 </p>
+---
+### 🔧 Skills
+HTML • CSS • Responsive Design • GitHub • VS Code
+
+### 📂 Current Focus
+Building modular layouts, semantic structure, and clean UI foundations.
+
+### 🌐 Portfolio
+https://cocobutta-creative.github.io
 
 </p>
